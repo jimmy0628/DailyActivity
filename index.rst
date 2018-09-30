@@ -36,14 +36,17 @@ Farewell letter to the team
 Dear my lovely colleagues and friends:
 -------------------------------------
 
-Today is my last day here in Huawei. The time of the past 3 years with the team is an arduous, but rewarding and satisfying experience for me. Working with you guys gave me a great valuable memory that worth recalling all the time in my future life. From this time, I have learned how communicating and negotiating with people with different angles and unique vision, how viewing from different perspectives with a different mindset, which, I firmly believe, is the most valuable asset under the hood for my future career development. 
+Today is my last day here in Huawei. The time of the past 3 years with the team is an arduous, but rewarding and satisfying experience for me. Working with you guys gave me a great valuable memory that worth recalling all the time in my future life. From this time, I have learned how communicating and negotiating with people with different angles and unique vision, how viewing from different perspectives with a different mindset, which, I firmly believe, is the most valuable asset for my future career advancement.
 
-With this opportunity, I would like to express my sincere regards to the team, and to my mentors who had taught me anything thing new. Without your gorgeous supports and wholeheartedly guidances, I would never have chance to becoming better, not mention for making progress in my career development. 
+First and foremost, please permit me to take this precious opportunity to express my sincere regards to the GTAC IT team, and to my mentors who had taught me something new. Without your gorgeous supports and wholeheartedly guidances, I would never have chance to becoming better, not mention for making progress in my career development.
 
-GTAC IT is a great place to hone my knowledges and expertise on how disparate products serving as a whole solution that dispense unique values to variety clients respectively, so that I firmly believe that it is worth investing my energy, passion and time in this team. 
+Whereas I cannot go with the team anymore because of my personal reasons, GTAC IT, to me, is a great and friendly workplace that has granted me the chance to hone my knowledges and expertise, so that I had a view of how disparate products serving as an integrated solution that dispenses unique values to variety clients respectively, therefore I firmly believe that it is worth investing my energy, passion and time here. 
 
-I hope I am allowed to keep contact with such talent team. Please definitely feel free to reach me by my personal way of contacts, I feel honored to be needed. :)
+Everyone has his own journey, so do I.  Please pardon my leaving and I wish you have a bright and a continuous successful career and happy life, and I truly believe so. 
 
+Finally, I hope I am allowed to keep contact with such a talent team. Please definitely feel free to reach me by my personal way of contacts, I feel honored to be needed. :)
+
+Best Regards
 
 Best Regards
 
