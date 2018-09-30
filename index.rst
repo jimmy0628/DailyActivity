@@ -42,7 +42,7 @@ First and foremost, please permit me to take this precious opportunity to expres
 
 Whereas I cannot go with the team anymore because of my personal reasons, GTAC IT, to me, is a great and friendly workplace that has granted me the chance to hone my knowledges and expertise, so that I had a view of how disparate products serving as an integrated solution that dispenses unique values to variety clients respectively, therefore I firmly believe that it is worth investing my energy, passion and time here. 
 
-Everyone has his own journey, so do I.  Please pardon my leaving and I wish you have a bright and a continuous successful career and happy life, and I truly believe so. 
+Everyone has his own journey, so do I.  Please pardon my leaving and I wish you have a bright, continuous successful career and a happy life, and I truly believe so. 
 
 Finally, I hope I am allowed to keep contact with such a talent team. Please definitely feel free to reach me by my personal way of contacts, I feel honored to be needed. :)
 
