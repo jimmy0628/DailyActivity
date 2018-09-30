@@ -1,3 +1,9 @@
+2018/09/30
+=============
+
+This is a site to make valueble notes to myself. 
+
+
 How to setup RSA key for linux server
 =======================================
 
