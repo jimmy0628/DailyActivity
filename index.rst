@@ -10,7 +10,7 @@ This is a site to make valueble notes to myself.
 
 
 How to setup RSA key for linux server
-=======================================
+---------------------------------------
 
 Reference:
 https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server
@@ -23,7 +23,7 @@ This command will generate a pair of private key and public key
 ssh-copy-id -p port_number user@host
 
 What is altruism
-================
+----------------
 
 Altruism is a character that makes people to help others without an expectation of reward, that it is commonly seen as a moral quality of a person. The observation ranges from that, parents always invest great energy nurturing children without hoping benefits for themselves, wealthy people often participate in programs that aim to eliminate poverty in developing countries with their own investment, to sometimes people even save a stranger from danger on the cost of his own life. 
 
@@ -34,7 +34,7 @@ However, many animals, even insects also have similar behaviors that benefit the
 Farewell letter to the team
 
 Dear my lovely colleagues and friends:
-======================================
+-------------------------------------
 
 Today is my last day here in Huawei. The time of the past 3 years with the team is an arduous, but rewarding and satisfying experience for me. Working with you guys gave me a great valuable memory that worth recalling all the time in my future life. From this time, I have learned how communicating and negotiating with people with different angles and unique vision, how viewing from different perspectives with a different mindset, which, I firmly believe, is the most valuable asset under the hood for my future career development. 
 
