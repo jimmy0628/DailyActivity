@@ -44,7 +44,7 @@ Whereas my not going with the team anymore out of personal reasons, GTAC IT, to 
 
 Everyone has his own journey, so do I. Please pardon my leaving and I wish you have a bright, continuous successful career and a happy life. I hope I am allowed to keep contact with such a talent team. Please definitely feel free to reach me by my personal way of contacts, I feel honored when I am needed by you. 
 
-Finally, I am a big fan of science fiction. By reading science fiction stories makes me feel I am not alone and I have a bright future by making progress with technologies along the way. You may notice in my email signature, there is a quote by Arthur C Clark, one of my favorite hardcore science story writers.  I`d like to share with you another quote from him as well below.
+Finally, I am a big fan of science fiction. By reading science fiction stories makes me feel I am not alone and I have a bright future by making progress with technologies along the way. You may have noticed in my email signature, there is a quote by Arthur C Clark, one of my favorite hardcore science story writers. I`d like to share with you another quote from him as well below.
 
 
 
