@@ -40,11 +40,20 @@ Today is my last day here in Huawei. The time of the past 3 years with the GTAC 
 
 First and foremost, please permit me to take this opportunity to express my sincere regards to the GTAC IT team, and to my mentors who had taught me new knowledges. Without your gorgeous supports and wholeheartedly guidances, I would never have a chance of making progress, not mention any achievements in this job in such a great company of Huawei.
 
-Whereas my not going with the team anymore out of personal reasons, GTAC IT, to me, is a groovy and nice workplace that has granted me the chance to hone my knowledges and expertise, so that I had a view of how disparate products serving as an integrated solution that dispenses unique values to variety clients respectively, therefore I firmly believe that it is worth investing my energy, passion and time here. 
+Whereas my not going with the team anymore out of personal reasons, GTAC IT, to me, is a groovy and nice workplace that has granted me the chance to hone my knowledges and expertise, so that I had a view of how disparate products serving as an integrated solution that dispenses unique values to variety clients respectively, therefore I firmly believe that it is worth investing my energy, passion and time here.
 
-Everyone has his own journey, so do I.  Please pardon my leaving and I wish you have a bright, continuous successful career and a happy life. 
+Everyone has his own journey, so do I. Please pardon my leaving and I wish you have a bright, continuous successful career and a happy life. I hope I am allowed to keep contact with such a talent team. Please definitely feel free to reach me by my personal way of contacts, I feel honored when I am needed by you. 
 
-Finally, I hope I am allowed to keep contact with such a talent team. Please definitely feel free to reach me by my personal way of contacts, I feel honored when I am needed by you. :)
+Finally, I am a big fan of science fiction. By reading science fiction stories makes me feel I am not alone and I have a bright future by making progress with technologies along the way. You may notice in my email signature, there is a quote by Arthur C Clark, one of my favorite hardcore science story writers.  I`d like to share with you another quote from him as well below.
+
+
+
+I don’t pretend we have all the answers. But the questions are certainly worth thinking about. -- Sir Arthur C Clark
+
+
+
+Yes, like questions, the future is also worth thinking about. 
+
 
 Best Regards
 
