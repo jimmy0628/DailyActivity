@@ -20,3 +20,20 @@ Some people believe that altruism is a sacred creed because only human has free 
 
 However, many animals, even insects also have similar behaviors that benefit the whole species, or at least the swarm. For example, ants will sacrifice themselves when crossing a stream that lay before their road to the destination by forming an ants bridge to allow the following ants to go across on it. 
 
+Farewell letter to the team
+
+Dear my lovely colleagues and friends:
+======================================
+
+Today is my last day here in Huawei. The time of the past 3 years with the team is an arduous, but rewarding and satisfying experience for me. Working with you guys gave me a great valuable memory that worth recalling all the time in my future life. From this time, I have learned how communicating and negotiating with people with different angles and unique vision, how viewing from different perspectives with a different mindset, which, I firmly believe, is the most valuable asset under the hood for my future career development. 
+
+With this opportunity, I would like to express my sincere regards to the team, and to my mentors who had taught me anything thing new. Without your gorgeous supports and wholeheartedly guidances, I would never have chance to becoming better, not mention for making progress in my career development. 
+
+GTAC IT is a great place to hone my knowledges and expertise on how disparate products serving as a whole solution that dispense unique values to variety clients respectively, so that I firmly believe that it is worth investing my energy, passion and time in this team. 
+
+I hope I am allowed to keep contact with such talent team. Please definitely feel free to reach me by my personal way of contacts, I feel honored to be needed. :)
+
+
+Best Regards
+
+Hui Zhao
