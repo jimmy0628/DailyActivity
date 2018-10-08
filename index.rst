@@ -60,6 +60,10 @@ Best Regards
 Hui Zhao
 
 
+2018/10/08
+=============
+
+
 Thinking on AI
 --------------
 
