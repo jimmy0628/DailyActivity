@@ -73,7 +73,7 @@ Big companies are becoming behemoths that are feed by our digital footprints, an
 
 Besides the concerns that are introduced by the good-will AI mentioned above, vice organizations like the government cannot help from exploiting insights provided by the almost omnipotent AI. The Chinese Government is building a "Social Credit System" that records its citizens` records of behaviors, and scores accordingly. Then via current primal AI technology, people are cataloged into different groups accordingly, and the government is monitoring the people tagged as the danger.  At the same time, the notorious GFW that divides the internet into two separate sub-net, China and the rest of the world is becoming smarter by analyzing network traffic pattern so that it can detect the "illegal traffic" and update the blacklist more efficiently. 
 
-Finally, I believe the thinking and discussion on AI will not end. At least, AI and related innovations make us more productive. At the same time,  heavily rely on data, AI at this moment is harming our core values that cannot be quantified that it may strange our organizations, governments, and societies, and which is far stranger than we can expect now.
+Finally, I believe the thinking and discussion on AI will not end. At least, AI and related innovations make us more productive. At the same time,  heavily rely on data, AI at this moment is harming our core values that cannot be quantified that it may strange our organizations, governments, and societies, and which will be far stranger than we can expect now.
 
 
 
