@@ -58,3 +58,23 @@ Yes, like questions, the future is also worth thinking about.
 Best Regards
 
 Hui Zhao
+
+
+Thinking on AI
+--------------
+
+Artificial Intelligence (AI) has been becoming more of the essence since the computing power bottleneck was broken thanks to introducing the GPU based vector calculation. AI is reshaping our IT industry as well as our society.
+
+Rather than a future, a reality is AI. It has been adopted widely in the almost every corner of our lives ranging from online shopping to the security market.  Our navigation history of web surfing is exploited by companies to display ads that we don`t want, and our locations, preferences and other personal information are also collected and may be handed over to the government. All facades of our lives are driven by data that is analyzed by AI in the cloud. No matter you like or not, it is becoming an existence that can not be untangled from us. 
+
+Is it benign or malignant to us?  Some people argue we human should be cautious about the AI development, otherwise, the evil robots will wipe out us from the surface of our planet in the future just like how we treat so-called lower class animals, whereas others believe we will merge with AI and become augmented superhuman with the aid from magic capacity provided by good-will AI. However, it is not related if the AI will behave mercifully to us, but how our society will evolve in the direction that maximizes the overall benefit of us as a species. 
+
+Big companies are becoming behemoths that are feed by our digital footprints, and digest the data to grow bigger.  We cannot resist. Like the Big Brother, the AI is watching us behind every screen we have. The power balance has tilted towards the dictatorship by the big platforms. Think about this scenario. Our personal AI prescribes a better route to the work when we drive, and according to the experiences, it is highly possible AI is correct, should we follow the guide? Because we know AI is almost always correct. If not, we will face the pending penalty of being late to the work. The situation will be like, as the power of AI grows, we should follow almost every decree from AI. So where is the free will of the human being, which is the foundation of our society? 
+
+Besides the concerns that are introduced by the good-will AI mentioned above, vice organizations like the government cannot help from exploiting insights provided by the almost omnipotent AI. The Chinese Government is building a "Social Credit System" that records its citizens` records of behaviors, and scores accordingly. Then via current primal AI technology, people are cataloged into different groups accordingly, and the government is monitoring the people tagged as the danger.  At the same time, the notorious GFW that divides the internet into two separate sub-net, China and the rest of the world is becoming smarter by analyzing network traffic pattern so that it can detect the "illegal traffic" and update the blacklist more efficiently. 
+
+Finally, I believe the thinking and discussion on AI will not end. At least, AI and related innovations make us more productive. At the same time,  heavily rely on data, AI at this moment is harming our core values that cannot be quantified that it may strange our organizations, governments, and societies, and which is far stranger than we can expect now.
+
+
+
+
