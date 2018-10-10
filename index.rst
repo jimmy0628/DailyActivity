@@ -1,5 +1,5 @@
 ========================
-Chronicle My daily life
+Think Journal
 ========================
 
 
