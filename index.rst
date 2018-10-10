@@ -80,5 +80,28 @@ Besides the concerns that are introduced by the good-will AI mentioned above, vi
 Finally, I believe the thinking and discussion on AI will not end. At least, AI and related innovations make us more productive. At the same time,  heavily rely on data, AI at this moment is harming our core values that cannot be quantified that it may strange our organizations, governments, and societies, and which will be far stranger than we can expect now.
 
 
+2018/10/10
+===========
+
+To err is human, to forgive AI
+--------------------------------
+
+AI is breaking the delicate equilibrium among the five factors of productivity increase, job disappearance, new work occupant creation, and the speed of new skill learning, and the location of works. 
+
+In history, when a new technology appears, it will replace one or multiple old vacations so that the productivity increases and the original professional disappears. At the same time, the new technology also introduces more new occupations that require new skill sets, which make people have to learn new skills. It is a balance that people have adequate time to absorb new knowledge to be eligible for the new tasks after the old ones vanish and the new jobs are already in the reach.
+
+For example, supermarket, out of economies of scale, outperforms the local grocery stores. By introducing a supermarket in one area, several local groceries nearby will extinct, and the families that depend on these stores will suffer. However, the living standard of this area will increase because of the productivity gains. People that are used to work in the grocery stores can pick up the new skills of working in supermarkets and start their new life. They have enough time to learn because of a slow change, and the jobs are still in the local area. 
+
+However, comes the AI. AI is so powerful that brings us both prosperity as a whole and sufferings as an individual by breaking of the equilibrium. 
+
+Firstly, the jobs wiped out by AI are usually the ones for the middle class. For example, it is predictable that the AI Medical Diagnosis from IBM or other tech giants will replace human doctors in the foreseeable future. Ditto for lawyers, teachers, and even software engineers. These middle-class workers have spent several years to make themselves highly specialized in a single field to be eligible for the current professional tasks. Once their jobs have vaporized, the time and cost of learning a new will be scaring. 
+
+Furthermore, whereas the distribution of new jobs varies among distinct industries, more and more opportunities are only accessible to the top talent of that profession. AI often do much better than the average human peers with much lower cost. Let me give you an example in the creative industry, that was a human monopoly as we have always believed. AI now can compose music without human aid, and to the music listeners, they can hardly distinguish if the music is from AI composer or a human artist. It implies the average music writers are on the verge to be replaced by AI and only the top artist still has the chance to survive in the industry.
+
+Thirdly, the locations of jobs are migrating globally. As AI develops, it will eliminate local or domestic businesses and create new works remotely even in other nations. Governments and policymakers are in the hot debate to balance the protectionism and openness to help people find their niches locally.  As AI develops, it will integrate with cloud and serve customers as a cloud-based service around the globe. By doing that, the relevant works will migrate from the local business to global cloud providers such as Google, Amazon, and Alibaba.  Combined with the point mentioned above, the new jobs are only available to the well-educated, smart and AI-augmented elites in megacities or even megacities of foreign countries. 
+
+Like other technologies, AI will create more jobs, boost the productivity of society, elevate the overall living standard of the human. However, as an individual, it may mean different. Our conditions will transform into a far stranger equilibrium, which is far stranger than we most expect, in a transit fashion. We have to be agile enough to reshape ourselves to fit the pending change. Not all people can catch up the speed, that we will fall into the artificial hell created by artificial intelligence if we cannot. 
+
+
 
 
