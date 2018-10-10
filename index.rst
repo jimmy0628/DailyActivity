@@ -88,7 +88,7 @@ To err is human, to forgive AI
 
 AI is breaking the delicate equilibrium among the five factors of productivity increase, job disappearance, new work occupant creation, and the speed of new skill learning, and the location of works. 
 
-In history, when a new technology appears, it will replace one or multiple old vacations so that the productivity increases and the original professional disappears. At the same time, the new technology also introduces more new occupations that require new skill sets, which make people have to learn new skills. It is a balance that people have adequate time to absorb new knowledge to be eligible for the new tasks after the old ones vanish and the new jobs are already in the reach.
+In history, when a new technology appears, it will replace one or multiple old vacations so that the productivity increases and the original professions disappear. At the same time, the new technology also introduces more new occupations that require new skill sets, which make people have to learn new skills. It is a balance that people have adequate time to absorb new knowledge to be eligible for the new tasks after the old ones vanish and the new jobs are already in the reach.
 
 For example, supermarket, out of economies of scale, outperforms the local grocery stores. By introducing a supermarket in one area, several local groceries nearby will extinct, and the families that depend on these stores will suffer. However, the living standard of this area will increase because of the productivity gains. People that are used to work in the grocery stores can pick up the new skills of working in supermarkets and start their new life. They have enough time to learn because of a slow change, and the jobs are still in the local area. 
 
