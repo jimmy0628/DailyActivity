@@ -124,8 +124,10 @@ As you know, new innovations and values come up from the connection point of mul
 
 In a nutshell, globalization has changed our world and our works, in order to succeed, influence inside and outside your organization matters. Pay more attention to the boundary of your domain, and introduce the outside knowledge to allow yourself to be kindled.
 
+
 2018/10/16
 ==========
 
 Always kind, often patient, and never judgmental.
 --------------------------------------------------
+
